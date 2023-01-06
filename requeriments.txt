@@ -1,2 +1,5 @@
 pandas==1.2.3
 spacy==3.3.1
+transformers[torch]
+matlplotlib==3.6.2
+scikit-learn
