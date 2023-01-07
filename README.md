@@ -44,6 +44,6 @@ Linkedin: https://www.linkedin.com/in/luvan-tabares-501874136/
 
 ## Renocimientos
 
-Librería spaCy https://spacy.io/ \n
-Librería scikit-learn https://scikit-learn.org/stable/ \n
-Librería pandas https://pandas.pydata.org/ \n
+Librería spaCy https://spacy.io/ <\b>
+Librería scikit-learn https://scikit-learn.org/stable/ <\b>
+Librería pandas https://pandas.pydata.org/ <\b>
