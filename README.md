@@ -40,7 +40,8 @@ Para ejecutar el programa sólo hay que instalar lo necesario, importar librerí
 
 ## Autores
 
-Luván Stiven Tabares Bocanegra
+Luván Stiven Tabares Bocanegra </b> 
+  
 Linkedin: [https://www.linkedin.com/in/luvan-tabares-501874136/](https://www.linkedin.com/in/luvan-tabares-501874136/)
 
 
