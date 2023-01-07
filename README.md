@@ -4,7 +4,7 @@ Se requiere extraer la información necesaria de gran cantidad de documentos par
 
 ## Descripción
 
-A continuación se presenta un código que cumple con los requerimientos exigidos por Davivienda para la extracción de información como el nombre, ciudad, fecha y montos que se pueden encontrar en un documento tipo embargo
+A continuación se presenta un código que cumple con los requerimientos exigidos por Davivienda para la extracción de información como el nombre, ciudad, fecha y montos que se pueden encontrar en un documento tipo embargo.
 
 ## Para Empezar
 
@@ -40,8 +40,7 @@ Para ejecutar el programa sólo hay que instalar lo necesario, importar librerí
 
 ## Autores
 
-Luván Stiven Tabares Bocanegra </b> 
-  
+Luván Stiven Tabares Bocanegra </b>   
 Linkedin: [https://www.linkedin.com/in/luvan-tabares-501874136/](https://www.linkedin.com/in/luvan-tabares-501874136/)
 
 
