@@ -10,26 +10,28 @@ A continuación se presenta un código que cumple con los requerimientos exigido
 
 ### Librerías
 
-import numpy as np
-import pandas as pd
-import spacy
-import re
-from datetime import datetime
-import matplotlib.pyplot as plt
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.decomposition import LatentDirichletAllocation
-from scipy.sparse import csr_matrix
-nlp = spacy.load('es_core_news_lg')
+ - import numpy as np
+ - import pandas as pd
+ - import spacy
+ - import re
+ - from datetime import datetime
+ - import matplotlib.pyplot as plt
+ - from sklearn.feature_extraction.text import CountVectorizer
+ - from sklearn.decomposition import LatentDirichletAllocation
+ - from scipy.sparse import csr_matrix
+ - nlp = spacy.load('es_core_news_lg')
 
 ### Instalaciones posiblemente necesarias
 
-#conda install -c conda-forge pandas==1.2.3
-#conda install -c conda-forge spacy==3.4.4
-#!pip uninstall numpy
-#!pip install numpy
-#!python -m spacy download es_core_news_lg --user
-#!pip install -U scikit-learn --user
-#!pip install matplotlib --user
+ - #conda install -c conda-forge pandas==1.2.3
+ - #conda install -c conda-forge pandas==1.2.3
+ - #conda install -c conda-forge spacy==3.4.4
+ - #!pip uninstall numpy
+ - #!pip install numpy
+ - #!python -m spacy download es_core_news_lg --user
+ - #!pip install -U scikit-learn --user
+ - #!pip install matplotlib --user
+
 
 ### Ejecutar el programa
 
@@ -39,11 +41,11 @@ Para ejecutar el programa sólo hay que instalar lo necesario, importar librerí
 ## Autores
 
 Luván Stiven Tabares Bocanegra
-Linkedin: https://www.linkedin.com/in/luvan-tabares-501874136/
+Linkedin: [https://www.linkedin.com/in/luvan-tabares-501874136/](https://www.linkedin.com/in/luvan-tabares-501874136/)
 
 
 ## Renocimientos
 
--Librería spaCy https://spacy.io/ 
--Librería scikit-learn https://scikit-learn.org/stable/ 
--Librería pandas https://pandas.pydata.org/ 
+Librería spaCy [https://spacy.io/](https://spacy.io/)
+Librería scikit-learn [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
+Librería pandas [https://pandas.pydata.org/](https://pandas.pydata.org/)
