@@ -23,14 +23,14 @@ A continuación se presenta un código que cumple con los requerimientos exigido
 
 ### Instalaciones posiblemente necesarias
 
- - #conda install -c conda-forge pandas==1.2.3
- - #conda install -c conda-forge pandas==1.2.3
- - #conda install -c conda-forge spacy==3.4.4
- - #!pip uninstall numpy
- - #!pip install numpy
- - #!python -m spacy download es_core_news_lg --user
- - #!pip install -U scikit-learn --user
- - #!pip install matplotlib --user
+ - conda install -c conda-forge pandas==1.2.3
+ - conda install -c conda-forge pandas==1.2.3
+ - conda install -c conda-forge spacy==3.4.4
+ - !pip uninstall numpy
+ - !pip install numpy
+ - !python -m spacy download es_core_news_lg --user
+ - !pip install -U scikit-learn --user
+ - !pip install matplotlib --user
 
 
 ### Ejecutar el programa
@@ -46,6 +46,6 @@ Linkedin: [https://www.linkedin.com/in/luvan-tabares-501874136/](https://www.lin
 
 ## Renocimientos
 
-Librería spaCy [https://spacy.io/](https://spacy.io/)
-Librería scikit-learn [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
-Librería pandas [https://pandas.pydata.org/](https://pandas.pydata.org/)
+ - Librería spaCy [https://spacy.io/](https://spacy.io/)
+ - Librería scikit-learn [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
+ - Librería pandas [https://pandas.pydata.org/](https://pandas.pydata.org/)
