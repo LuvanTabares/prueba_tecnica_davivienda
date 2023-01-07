@@ -1,8 +1,8 @@
 # Prueba Técnica Davivienda - Extracción Información
 
-Simple overview of use/purpose.
+Extraer la extracción de información necesaria para aumentar la eficiencia operativa, disminuir tiempos de respuesta y mitigar riesgos asociados a los procesos, la información solicitada será el nombre del cliente, la ciudad del cliente, fecha en la que se adquirió el compromiso y el monto que debe pagar. Para este análisis se utilizarán técnicas de procesamiento de lenguaje natural (NLP) para el procesamiento del texto y encontrar la mejor forma de extraer cada información solicitada a partir de un archivo csv que contiene dicha información.
 
-## Description
+## Descripción
 
 An in-depth paragraph about your project and overview of use.
 
